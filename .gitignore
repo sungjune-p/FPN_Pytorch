@@ -1,0 +1,5 @@
+data/*
+weights/*
+original_data/*
+*.pyc
+./idea/*
