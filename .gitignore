@@ -3,3 +3,4 @@ weights/*
 original_data/*
 *.pyc
 ./idea/*
+*.swp
